@@ -1,0 +1,25 @@
+{
+    "version": "1.0",
+    "title": "Display HTML5 banner - v2",
+    "description": "",
+    "width": "300",
+    "height": "250",
+    "events": {
+        "enabled": 1,
+        "list": {
+            "1": "Subpage activated",
+            "2": "Subpage closed",
+            "3": "Navigation prev",
+            "4": "Navigation next",
+            "5": "Video started",
+            "6": "Video ended",
+            "7": "Swipe",
+            "8": "Show disclaimer",
+            "9": "Hide disclaimer"
+        }
+    },
+    "clicktags": {
+        "clickTAG": "https:\/\/www.stark.dk\/"
+    },
+    "source": "adform.html"
+}
